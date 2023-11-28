@@ -77,6 +77,29 @@ Git push :
 Git pull :
 - Untuk mengambil commit dari server jika ada perubahan di server yang dibuat oleh branch lain
 
+* Git Branch
+Deskripsi:
+- Cabang / copyan dari repo 
+Manfaat :
+- Parallel development
+- Bisa digunakan untuk memanajemen pengembangan. Misal test branch, unstable branch, stable branch
+Kapan dibutuhkan :
+- Saat mengembangakan fitur baru
+Pembahasan branch :
+- Git branch: melihat semua branch (local)
+- Git branch --all: melihat semua branch (public)
+- Git branch nama_branch: membuat branch baru
+- Git checkout nama_branch: untuk berpindah branch
+- Git branch -d nama_branch: untuk menghapus branch
+Git merge nama_branch :
+- untuk menggabungkan commit dari 2 branch
+- Relatif terhadap branch yang aktif saat ini
+- Untuk melakukan merge harus dipastikan tidak ada file yang belum di commit
+Conflict :
+- Kondisi yang terjadi ketika merging 2 branch yang memiliki perubahan pada file yang sama
+- Ketika conflict, kita tidak bisa melakukan commit
+- Untuk melakukan commit, conflict harus diselesaikan dulu
+
 * Git GUI/ Sourcetree
 Deskripsi :
 - Software berbasis GUI untuk memudahkan dalam mengoperasikan git
@@ -89,4 +112,3 @@ Kapan dibutuhkan :
 Solving conflict using sourcetree :
 - Install diff merge. Download disini (https://sourcegear.com/diffmerge/downloads.php)
 - konfigurasi
-
