@@ -1,0 +1,29 @@
+*Intro Git
+Deskripsi :
+- GIT adalah salah satu version control system yang diciptakan oleh Linus Torvalds
+- GIT mencatat setiap perubahan file di code atau sourcode kita
+Manfaat :
+- Bisa menyimpan seluruh versi source code
+- Berkolaborasi membangun sistem jadi mudah
+- Bisa berkontribusi di proyek open source
+- Memudahkan dalam tracking perubahan
+- Memahami cara deploy modern
+- Dsb
+Kapan dibutuhkan :
+- Saat ingin membangun sistem dengan berkolaborasi
+- Membuat versi dari sistem
+- Backup sour code
+- Berkolaborasi dengan programmer dunia
+
+Git /= git hub/ git lab/ bitbucket
+
+Tools Environment
+- GIT
+- Akun gitlab / github 
+- Sourcetree
+- Text editor: vscode, sublime text, atom
+Other Tools :
+- Lightshot
+- Grepper
+- Screen O Matic
+- Zoom / Gmeet
