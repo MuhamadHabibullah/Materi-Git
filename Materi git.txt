@@ -76,3 +76,17 @@ Git push :
 - Untuk mengirimkan commit ke server
 Git pull :
 - Untuk mengambil commit dari server jika ada perubahan di server yang dibuat oleh branch lain
+
+* Git GUI/ Sourcetree
+Deskripsi :
+- Software berbasis GUI untuk memudahkan dalam mengoperasikan git
+Manfaat :
+- Mudah digunakan
+- Solving conflict jadi lebih mudah
+- Mempercepat kinerja
+Kapan dibutuhkan :
+- Setiap saat
+Solving conflict using sourcetree :
+- Install diff merge. Download disini (https://sourcegear.com/diffmerge/downloads.php)
+- konfigurasi
+
